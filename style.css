@@ -162,4 +162,21 @@
     padding-top: 100px;
 }
 
-@media only screen and
+@media only screen and (max-width:400px) {
+    .contain {
+        background-color: #FFB800;
+        height: 100%;
+        width: 100%;
+    }
+
+    .enter {
+        padding-left: 0px;
+        width: 100%;
+    }
+
+    .end>img {
+        width: 300px;
+    }
+
+    
+}
