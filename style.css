@@ -1,0 +1,165 @@
+.red {
+    color: #F17228;
+    font-weight: bolder;
+}
+
+.yellow {
+    color: #FFB800;
+    font-weight: bold;
+}
+
+.material-symbols-outlined {
+    color: #FFB800;
+    font-weight: bold;
+}
+
+.header-text-1 {
+    font-weight: 500;
+}
+
+.header-text-3 {
+    font-weight: 500;
+}
+
+.header-text-4 {
+    font-weight: 600;
+    font-size: 18px;
+    padding-left: 10px;
+    
+}
+
+.header-text-6 {
+    font-weight: bold;
+    color: #FFB800;
+    font-size: 18px;
+    padding-right: 40px;
+} 
+
+.header-text-5 {
+    padding-left: 50px;
+}
+
+.header-icon {
+    padding-left: 50px;
+}
+
+.header-icon-1 {
+    font-weight: bold;
+}
+
+.header-text-6 {
+    padding-left: 10px;
+}
+
+.contain {
+    background-color: #FFB800;
+    height: 500px;
+}
+
+.image-text {
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    vertical-align: baseline;
+}
+
+.text-one {
+    font-weight: bold;
+    color: #F17228;
+    padding-left: 3px;
+    font-size: 20px;
+}
+
+/* .contain-1 {
+    background-color: white;
+} */
+
+.image-icon-1 {
+    color: #757575;
+}
+
+.text-two {
+    color: #757575;
+    padding-left: 3px;
+}
+
+.btn-1 {
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-2 {
+    border: none;
+    border-radius: 5px;
+}
+
+.header-icon-4 {
+    color: #F17228;
+}
+
+.enter>input {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+
+
+.btn-1 {
+    background: #F172281A;
+}
+
+.image-icon {
+    color: #F17228;
+}
+
+.btn-3 {
+    padding: 10px 20px;
+    background: linear-gradient(95.71deg, #FF7A7A -39.64%, #F75900 135.31%);
+    border: none;
+    border-radius: 5px;
+    vertical-align: baseline;
+    color: white;
+}
+
+.btn-5 {
+    color: white;
+}
+
+.text-two {
+    padding: 10px;
+}
+
+.image-text {
+    padding-top: 60px;
+}
+
+.first {
+    padding-left: 10% !important;
+}
+
+.contain-1 {
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 5px;
+    border-radius: 5px;
+}
+
+.btn-2 {
+    padding-left: 30px !important;
+}
+
+.enter {
+    padding-top: 30px;
+}
+
+.end {
+    padding-top: 50px;
+}
+
+.image-6 {
+    padding-top: 100px;
+}
+
+@media only screen and
