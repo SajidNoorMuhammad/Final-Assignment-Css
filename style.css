@@ -177,4 +177,33 @@
     .hold>img {
         width: 300px;
     }
+
+    .contain-1 {
+        width: 300px;
+    }
+
+    .second {
+        width: 300px;
+    }
+
+    .enter-1 {
+        width: 80%;
+    }
+
+    .btn-1 {
+        padding: 10px;
+    }
+
+    .btn-2 {
+        padding: 10px;
+    }
+
+    .hold>img {
+        text-align: center;
+    }
+
+    .image-text {
+        line-height: 50px;
+    }
+
 }
